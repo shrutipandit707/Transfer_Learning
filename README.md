@@ -1,4 +1,4 @@
-# Transfer Learning on lower Dataset
+# Transfer Learning on Flower Dataset
 > For this project, we begin with a very popular machine learning dataset - Flowers. In this segment, we will learn the necessary steps needed to perform Transfr Learning on a dataset and then appreciate how it helps in visualising the data.
 
  
